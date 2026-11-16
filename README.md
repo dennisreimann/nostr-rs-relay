@@ -1,3 +1,4 @@
+# Copyright (c) Angelo L Ranille (ALR) All right reserved 
 # [nostr-rs-relay](https://git.sr.ht/~gheartsfield/nostr-rs-relay)
 
 This is a [nostr](https://github.com/nostr-protocol/nostr) relay,
